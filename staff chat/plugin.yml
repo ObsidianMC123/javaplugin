@@ -1,0 +1,8 @@
+name: StaffChat
+Version: 1.0
+authors: [ obsidian, minh145bvn ]
+description: using /staffchat to use
+commands:
+   staffchat:
+      description: A private staff chat
+      usage: /<command>
